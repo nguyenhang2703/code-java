@@ -2,7 +2,7 @@ package Lab5_bai1;
 import java.util.Scanner;
 import java.util.ArrayList;
 
-public class BAI5_1 {
+public class Lab5_bai1 {
 
 	public static void main(String[] args) {
 		int n,dem = 0,i;
